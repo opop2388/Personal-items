@@ -1,0 +1,435 @@
+//Tabs==================================================
+
+itemGroup.jurassicraft.items =JurassiCraft項目
+itemGroup.jurassicraft.blocks =JurassiCraft塊
+itemGroup.jurassicraft.dna =JurassiCraft DNA
+itemGroup.jurassicraft.foods =JurassiCraft食品
+itemGroup.jurassicraft.plants =JurassiCraft植物
+itemGroup.jurassicraft.fossils =JurassiCraft化石
+itemGroup.jurassicraft.decorations =JurassiCraft公園裝飾品
+
+//Entities ==================================================
+
+entity.jurassicraft.velociraptor.name =迅猛
+entity.jurassicraft.tyrannosaurus.name =暴龍
+entity.jurassicraft.dilophosaurus.name =雙脊龍
+entity.jurassicraft.gallimimus.name =似雞龍屬
+entity.jurassicraft.parasaurolophus.name =副節龍
+entity.jurassicraft.triceratops.name =三角龍
+entity.jurassicraft.brachiosaurus.name =腕龍
+
+//Items ==================================================
+
+item.plaster_and_bandage.name =石膏和繃帶
+item.attraction_sign.name =type型符號景點
+attraction_sign.aquarium.name =水族館
+attraction_sign.aquarium_coral.name =水族館珊瑚
+attraction_sign.aviary.name =觀鳥
+attraction_sign.aviary_plants.name =觀鳥與植物
+attraction_sign.gallimimus_valley.name =似雞龍屬谷
+attraction_sign.gallimimus_valley_plants.name =似雞龍屬谷與植物
+attraction_sign.gentle_giants.name =斯文的巨人
+attraction_sign.gentle_giants_plants.name =斯文的巨人與植物
+attraction_sign.raptor_paddock.name =猛禽圍場
+attraction_sign.raptor_paddock_plants.name =猛禽圍場與植物
+item.skull_fresh.name =頭骨
+item.tooth_fresh.name =牙齒
+item.anal_fin_fresh.name =臀鰭
+item.shoulders_fresh.name =肩頰骨
+item.ribcage_fresh.name =肋骨
+item.foot_bones_fresh.name =腳骨
+item.tail_fluke_fresh.name =尾鰭
+item.armor_plating_fresh.name =裝甲
+item.ribs_and_spine_fresh.name =肋骨和脊柱
+item.neck_vertebrae_fresh.name =頸椎骨
+item.pelvis_fresh.name =骨盆
+item.shoulder_blade_fresh.name =肩胛骨
+item.cheek_teeth_fresh.name =牙頰
+item.tail_vertebrae_fresh.name =尾椎骨
+item.second_dorsal_fin_fresh.name =第二背鰭
+item.pectoral_fin_bones_fresh.name =胸鰭骨骼
+item.inner_teeth_fresh.name =內齒
+item.teeth_fresh.name =牙齒
+item.shoulder_fresh.name =肩
+item.mouth_plates_fresh.name =口板
+item.hind_flipper_fresh.name =欣德翻轉
+item.shoulder_bone_fresh.name =肩頰骨
+item.hind_leg_bones_fresh.name =後腿骨頭
+item.tail_fresh.name =尾
+item.front_flipper_fresh.name =前翻轉
+item.spine_fresh.name =脊柱
+item.front_leg_bones_fresh.name =前腿骨
+item.neck_fresh.name =頸
+item.body_fins_fresh.name =車身鰭片
+item.dorsal_fin_fresh.name =背鰭
+item.claw_fresh.name =爪
+item.tail_club_fresh.name =尾
+item.leg_bones_fresh.name =腿骨
+item.horn_fresh.name =號角
+item.pelvic_fin_bones_fresh.name =腹鰭骨頭
+item.thagomizer_fresh.name =Thagomizer
+item.caudal_fin_fresh.name =尾鰭
+item.wing_bones_fresh.name =翅膀骨骼
+item.arm_bones_fresh.name =骼臂
+item.first_dorsal_fin_fresh.name =第一背鰭
+item.fossilized_egg.name =蛋化石
+item.skull.name =頭骨
+item.tooth.name =牙
+item.anal_fin.name =臀鰭
+item.shoulders.name =護肩
+item.ribcage.name =肋骨
+item.foot_bones.name =腳骨
+item.tail_fluke.name =尾鰭
+item.armor_plating.name =裝甲
+item.ribs_and_spine.name =肋骨和脊柱
+item.neck_vertebrae.name =頸部椎骨
+item.pelvis.name =骨盆
+item.shoulder_blade.name =肩胛骨
+item.cheek_teeth.name =齒頰
+item.tail_vertebrae.name =尾椎骨
+item.second_dorsal_fin.name =第二背鰭
+item.pectoral_fin_bones.name =胸鰭骨骼
+item.inner_teeth.name =內齒
+item.teeth.name =牙齒
+item.shoulder.name =肩
+item.mouth_plates.name =口板
+item.hind_flipper.name =欣德翻轉
+item.shoulder_bone.name =肩骨頭
+item.hind_leg_bones.name =後腿骨頭
+item.tail.name =尾巴
+item.front_flipper.name =前翻轉
+item.spine.name =松
+item.front_leg_bones.name =前腿骨
+item.neck.name =領
+item.body_fins.name =鰭
+item.dorsal_fin.name =背鰭
+item.claw.name =爪
+item.tail_club.name =尾
+item.leg_bones.name =腿骨
+item.horn.name =號角
+item.pelvic_fin_bones.name =腹鰭骨頭
+item.thagomizer.name =Thagomizer
+item.caudal_fin.name =尾鰭
+item.wing_bones.name =骨翼
+item.arm_bones.name =骨骼臂
+item.first_dorsal_fin.name=第一背鰭
+item.dino_egg.name =恐龍蛋
+item.hatched_egg.name =孵化恐龍蛋
+item.dino_spawn_egg.name =恐龍胚胎
+item.dinosaur_meat.name =恐龍肉
+item.dinosaur_steak.name =恐龍排
+item.dna.name =恐龍DNA
+item.blue_print.name =type藍圖
+item.paddock_sign.name =圍場註冊
+item.soft_tissue.name =恐龍軟組織
+item.amber.name =儲存琥珀
+item.petri_dish.name =培養皿
+item.petri_dish_agar.name =培養皿瓊脂
+item.empty_test_tube.name =空試管
+item.syringe.name =恐龍注射器
+item.empty_syringe.name =空的注射器
+item.storage_disc.name =存儲光碟
+item.dna_base_material.name =DNA核甘酸
+item.cage_small.name =小籠子
+item.plant_dna.name =植物DNA
+item.sea_lamprey.name =海七鰓鰻
+item.iron_blades.name =鐵刀片
+item.iron_rod.name =鐵棒
+item.growth_serum.name =生長精華
+item.needle.name =針
+item.plant_cells.name =植物細胞
+item.plant_cells_petri_dish.name =植物細胞培養皿
+item.plant_callus.name =廠植物癒傷
+item.tracker.name =恐龍追蹤植入
+item.helicopter_spawner.name =直升機
+item.disc_reader.name =光盤驅動器
+item.laser.name =激光
+item.disc_jurassicraft_theme.name =JurassiCraft記錄
+item.disc_troodons_and_raptors.name =JurassiCraft記錄
+item.disc_dont_move_a_muscle.name =JurassiCraft記錄
+item.action_figure.name =迪諾行動圖
+item.amber_cane.name =琥珀手杖
+item.amber_keychain.name =琥珀鑰匙扣
+item.mr_dna_keychain.name =MR DNA鑰匙扣
+item.dino_scanner.name =調試恐龍掃描儀
+item.basic_circuit.name =基本電路
+item.advanced_circuit.name =高級電路
+item.iron_nugget.name =鐵掘金
+item.gypsum_powder.name =石膏粉
+item.plant_soft_tissue.name =植物軟組織
+item.plant_fossil.name =植物化石
+item.twig_fossil.name =枝條化石
+item.keyboard.name =鍵盤
+item.computer_screen.name =計算機屏幕
+item.dna_analyzer.name =DNA分析儀
+item.chilean_sea_bass.name =智利鱸魚
+item.field_guide.name =不收領域指南
+item.car_chassis.name =轎車底盤
+item.car_engine_system.name =汽車發動機系統
+item.car_seats.name =汽車座椅
+item.car_tire.name =汽車輪胎
+item.car_windscreen.name =汽車擋風玻璃
+item.jeep_wrangler.name =吉普牧馬人
+item.unfinished_car.name =未完成的車
+item.mural.name =壁畫
+
+// Crops ========================================
+
+item.ajuginucula_smithii_seeds.name =Ajuginucula史密斯種子
+item.ajuginucula_smithii_leaves.name =Ajuginucula史密斯葉
+item.ajuginucula_smithii_oil.name =Ajuginucula史密斯油
+item.wild_onion.name =野蔥
+item.gracilaria.name =龍鬚
+item.liquid_agar.name =液態瓊脂
+
+//Blocks ==================================================
+
+tile.fossil_block.name =恐龍化石
+tile.encased_fossil.name =鋼骨恐龍化石
+tile.plant_fossil_block.name =植物化石
+tile.fossilized_trackway.name =化石變種行跡
+tile.nest_fossil.name =巢化石
+tile.encased_nest_fossil.name =化石鋼骨巢
+tile.amber_ore.name =琥珀礦
+tile.ice_shard.name =寒冰碎片礦石
+tile.moss.name =莫斯
+tile.peat.name =泥炭
+tile.peat_moss.name =泥炭蘚
+tile.cleaning_station.name =清潔站
+tile.fossil_grinder.name =化石磨床
+tile.dna_sequencer.name = DNA測序
+tile.dna_synthesizer.name = DNA合成
+tile.embryonic_machine.name =胚胎機
+tile.embryo_calcification_machine.name =胚胎鈣化機
+tile.incubator.name =孵化器
+tile.dna_extractor.name =DNA提取
+tile.dna_combinator_hybridizer.name =DNA Combinator的，微粒子
+tile.carnivore_feeder.name =食肉動物饋線
+tile.gypsum_stone.name =石膏石
+tile.gypsum_cobblestone.name =石膏鵝卵石
+tile.gypsum_bricks.name =石膏磚
+tile.ginkgo_sapling.name =銀杏樹苗
+tile.ginkgo_planks.name =銀杏木板
+tile.ginkgo_log.name =銀杏日誌
+tile.ginkgo_leaves.name =銀杏葉
+tile.ginkgo_stairs.name =銀杏樓梯
+tile.ginkgo_slab.name =銀杏板
+tile.ginkgo_log_petrified.name =石化銀杏日誌
+tile.calamites_sapling.name =Calamites樹苗
+tile.calamites_leaves.name =Calamites葉
+tile.calamites_log.name =Calamites日誌
+tile.calamites_planks.name =Calamites木板
+tile.calamites_stairs.name =Calamites樓梯
+tile.calamites_slab.name =Calamites板
+tile.calamites_log_petrified.name =石化Calamites日誌
+tile.small_royal_fern.name =皇家蕨
+tile.small_chain_fern.name =鏈蕨
+tile.small_cycad.name =蘇鐵
+tile.bennettitalean_cycadeoidea.name =Cycadeoidea
+tile.cry_pansy.name =驚魂三色堇
+tile.scaly_tree_fern.name =鱗蕨樹
+tile.cycad_zamites.name =Zamites
+tile.dicksonia.name =Dicksonia
+tile.dicroidium_zuberi.name =Dicroidium Zuberi
+tile.west_indian_lilac.name =西印度丁香
+tile.dictyophyllum.name =Dictyophyllum
+tile.serenna_veriformans.name =Serenna Veriformans
+tile.ladinia_simplex.name =Ladinia單
+tile.orontium_mackii.name =Orontium Mackii
+tile.umaltolepis.name =Umaltolepis
+tile.liriodendrites.name =Liriodendrites
+tile.raphaelia.name =Raphaelia
+tile.encephalartos.name =非洲蘇鐵
+tile.reinforced_stone.name =強化石
+tile.reinforced_bricks.name =鋼筋磚
+tile.cultivate.name =顏色中耕
+tile.clear_glass.name =清除玻璃
+tile.feeder.name =饋線
+tile.paleo_bale_cycadeoidea.name = Bennettitalean
+tile.paleo_bale_cycad.name =蘇鐵
+tile.paleo_bale_fern.name =蕨類
+tile.paleo_bale_leaves.name =葉
+tile.paleo_bale_other.name =史前植物
+trackway.biped_medium.name =雙足
+trackway.biped_small.name =小雙足
+trackway.raptor.name =猛禽
+
+// Crops ========================================
+
+
+tile.ajuginucula_smithii.name = Ajuginucula史密斯
+tile.wild_onion_plant.name =野蔥廠
+tile.gracilaria_seaweed.name =龍鬚廠
+
+//Plants =========================================
+
+plants.small_royal_fern.name =皇家蕨
+plants.calamites.name = Calamites
+plants.small_chain_fern.name =鏈蕨
+plants.small_cycad.name =蘇鐵
+plants.ginkgo.name =銀杏
+plants.bennettitalean_cycadeoidea.name =Cycadeoidea
+plants.cry_pansy.name =驚魂三色堇
+plants.scaly_tree_fern.name =鱗蕨樹
+plants.cycad_zamites.name =Zamites
+plants.dicksonia.name =Dicksonia
+plants.ajuginucula_smithii.name =Ajuginucula史密斯
+plants.wild_onion.name =野蔥
+plants.dicroidium_zuberi.name =Dicroidium Zuberi
+plants.west_indian_lilac.name =西印度丁香
+plants.dictyophyllum.name =Dictyophyllum
+plants.serenna_veriformans.name =Serenna Veriformans
+plants.ladinia_simplex.name =Ladinia單
+plants.orontium_mackii.name =Orontium Mackii
+plants.umaltolepis.name =Umaltolepis
+plants.liriodendrites.name =Liriodendrites
+plants.raphaelia.name =Raphaelia
+plants.encephalartos.name =非洲蘇鐵
+
+//Containers ==================================================
+
+container.cleaning_station =清潔站
+container.cleaning_station.cleanFossilButton =清潔化石
+container.fossil_grinder =化石磨床
+container.dna_sequencer =DNA測序
+container.dna_synthesizer =DNA合成
+container.embryonic_machine =胚胎機
+container.embryo_calcification_machine =胚胎鈣化機
+container.incubator =孵化器
+container.dna_extractor =DNA提取
+container.dna_combinator_hybridizer =DNA Combinator的，微粒子
+container.dna_combinator =DNA Combinator的
+container.dna_hybridizer =DNA微粒子
+container.cultivator =中耕
+container.cultivator.progress =進展
+container.cultivator.cultivating =培養
+container.close.name =關閉
+container.feeder =饋線
+cultivator.proximates.name =Proximates
+cultivator.minerals.name =礦產
+cultivator.vitamins.name =維生素
+cultivator.lipids.name =脂類
+
+//Others ==================================================
+
+blue_print.blank.name =空白
+lore.dna_quality.name = DNA質量：質量％
+lore.baby_dino.name =潛行+右鍵點擊產卵小恐龍
+lore.genetic_code.name =遺傳代碼
+lore.dinosaur.name =恐龍
+lore.plant.name =工廠
+lore.change_gender.name =右鍵點擊在空氣中改變性別
+item.record.jurassicraft_theme.desc = PigeonAce-JurassiCraft主題
+item.record.troodons_and_raptors.desc = PigeonAce-Troodons與猛龍
+item.record.dont_move_a_muscle.desc = PigeonAce-不要動一下
+
+cage.empty.name =空白
+gender.male.name =男
+gender.female.name =女
+gender.random.name =隨機
+spawnegg.genderchange.name =這個雞蛋現在將產生一個模式的性別。
+actionfigure.genderchange.name =這一行動數字將現在產生一個模式的性別。
+amber.mosquito.name =蚊子
+amber.aphid.name =蚜蟲
+
+color.red.name =紅
+color.orange.name =橙
+color.yellow.name =黃色
+color.green.name =綠色
+color.lime.name =石灰
+color.blue.name =藍
+color.light_blue.name =淺藍
+color.purple.name =紫
+color.pink.name =粉紅
+color.magenta.name =品紅
+color.white.name =白色
+color.black.name =黑色
+color.brown.name =布朗
+color.gray.name =灰色
+color.silver.name =淺灰色
+color.cyan.name =青色
+
+period.quaternary.name =第四紀
+period.neogene.name =新第三紀
+period.paleogene.name =古近紀
+period.cretaceous.name =白堊紀
+period.jurassic.name =侏羅紀
+period.triassic.name =三疊紀
+period.permian.name =二疊紀
+period.carboniferous.name =石炭
+period.devonian.name =泥盆紀
+period.silurian.name =志留紀
+period.ordovician.name =奧陶紀
+period.cambrian.name =寒武紀
+
+//Achievements ==============================================
+
+achievement.jurassicraft.mod =JurassiCraft ！
+achievement.jurassicraft.mod.desc =玩JurassiCraft ！
+
+achievement.jurassicraft.paleontology =古生物
+achievement.jurassicraft.paleontology.desc =工藝的一些石膏和繃帶
+
+achievement.jurassicraft.amber =古昆蟲
+achievement.jurassicraft.amber.desc =一些礦山礦石琥珀和接收琥珀
+
+achievement.jurassicraft.fossils =鋼骨
+achievement.jurassicraft.fossils.desc =包住石膏繃帶和化石
+
+achievement.jurassicraft.cleaningStation =保持文明！
+achievement.jurassicraft.cleaningStation.desc =工藝清潔站！
+
+achievement.jurassicraft.fossilGrinder =折磨
+achievement.jurassicraft.fossilGrinder.desc =製作一個化石磨床！
+
+achievement.jurassicraft.reinforcedStone =安全第一！
+achievement.jurassicraft.reinforcedStone.desc =工藝品一些強化石塊！
+
+//Other =============
+message.tame.name =你馴服了一個恐龍
+message.not_owned.name =你並不擁有這個恐龍！
+message.too_young.name =該恐龍是太年輕，持有項目！
+message.set_order.name =你所吩咐你的恐龍秩序。
+
+growth_stage.infant.name =嬰兒
+growth_stage.juvenile.name =少年
+growth_stage.adolescent.name =青少年
+growth_stage.adult.name =成人
+
+order.wander.name =自由活動
+order.sit.name =坐
+order.follow.name =跟隨
+
+
+gui.select_order.name =選擇
+
+gui.dinosaur_statistics.name =恐龍統計：
+gui.health.name =健康：
+gui.hunger.name =飢餓：
+gui.thirst.name =口渴：
+gui.age.name =年齡：
+gui.days_old.name =日齡
+
+status.drowning.name =溺水
+status.hungry.name =飢餓
+status.low_health.name =低健康
+status.poisoned.name =中毒
+status.sleepy.name =困
+status.tamed.name =被馴服
+status.thirsty.name =渴
+status.flocking.name =植絨
+status.scared.name =害怕
+status.carnivorous.name =肉食性
+status.herbivorous.name =草食
+status.diurnal.name =日
+status.nocturnal.name =夜間
+status.crepuscular.name =黃昏
+
+info.triceratops.name =三角龍晚白堊世時生活在北美。他們是草食性，主要是吃棕櫚樹，蘇鐵和蕨類植物。當完全長大，三角龍測量8-9米長，重6-12噸。頭做樣子用於顯示器，而角被用於攻擊和防禦。三角龍生活在5家庭團隊-由成年女性領導的女家長15個人。
+info.dilophosaurus.name =在長6-7米，來自亞利桑那州的這個早侏羅世的獸腳類是第一個大型食肉恐龍之一。它有其頭部雙波峰可能已經性顯示。雙脊龍實際上是有毒的，寧願吐出毒液注入獵物的眼睛。如果毒液擊中眼睛，它會導致失明和極度的痛苦，並最終癱瘓。雙脊龍生活在小，無組織的犯罪團伙-男性和女性（約3-10只）。
+info.brachiosaurus.name =腕龍是一個巨大的蜥腳類恐龍是生活在北美洲。它可以長到25或26米長，在高度9米以上，可重達40噸。它被認為是從樹頂瀏覽，吃多為銀杏葉，針葉樹，樹蕨，大型蘇鐵。腕龍屬生活在2-15為一群，由阿爾法男性或女性領導。他們生產鼓吹“唱”要求相互通信。
+info.parasaurolophus.name = Parasaurolophus是晚白堊世期間住在北美鴨嘴龍。據測定，10m長，重約2.5噸。其大，彎曲的，管狀的在它的頭冠是中空的，用來產生聲音。副節龍是食草動物，並像其他鴨嘴龍類，它採用頰齒磨它的食物。副節龍生活在大約5-50為一群，雄性和雌性的混合。Parasaur要求可行駛英里，而且他們都非常響亮。
+info.tyrannosaurus.name =霸王龍是白堊紀晚期在北美期間住一個巨大的獸腳類恐龍。它增長約12-13米長，在重6噸。從T-REX咬傷雷克斯發現食草動物的骨骼表明，它確實是一個捕食者。然而，它也清除。他們過著暴力的生活方式，是激烈的領土。霸王龍是宏偉的，但不能掉以輕心！
+info.velociraptor.name =迅猛龍是一種小型獸腳類恐龍的晚白堊世時生活在東亞地區。一個機會主義者，它捕獵多種獵物從小型哺乳動物和蜥蜴，中型恐龍。快速，高度智能化，具有很強的攻擊性，迅猛龍是很難訓服的。他們是高速的恐龍。他們媲美獵豹的速度，並且可以垂直躥到4米。
+info.gallimimus.name =似雞龍屬是草食獸腳類恐龍的晚白堊世期間住在蒙古。據測定，6-8米完全成長時。它寧願住在附近的水，放牧對植被和篩選藻類。似雞龍屬是一個跑得很快，但它的最高速度，目前尚不得而知。
+Gallis羊群效應是生活在10-100個成群的，通常是男性和女性的組合。他們非常恐慌，任何潛在的威脅可能導致踩踏。ms
